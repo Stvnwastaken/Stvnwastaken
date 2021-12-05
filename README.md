@@ -15,7 +15,7 @@ Hi 👋, I'm LightLord
 
 - 📫 Reach me on discord: **LightLord#4261**
 
-- ⚡ Fun Fact, **juggling many projects at a time is not very productive
+- ⚡ Fun Fact: **juggling many projects at a time is not very productive**
 
 ### [](https://github.com/LightLordYT/LightLordYT#languages-and-tools)Languages and Tools:
 
