@@ -1,14 +1,20 @@
-# Hey there, I am LightLord
+Hi 👋, I'm LightLord
 =====================
 
-### Web Developer
+### [](https://github.com/LightLordYT/LightLordYT#web-developer-low-level-systems-developer-and-osdev)Web Developer
 
 - 🔭 I like making **mods, scripts, games, websites, and more
+
 - 👀 Look at my current **game** that is in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**: https://www.gunnarz.us
+
 - 🌱 Currently learning **Bootstrap, Tailwind CSS, and React**
+
 - 🚧 I am currently working on my website 
+
 - 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io
+
 - 📫 Reach me on discord: **LightLord#4261**
+
 - ⚡ Fun Fact, **juggling many projects at a time is not very productive
 
 ### [](https://github.com/LightLordYT/LightLordYT#languages-and-tools)Languages and Tools:
