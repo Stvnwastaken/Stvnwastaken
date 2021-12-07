@@ -5,7 +5,7 @@ Hi 👋, I'm LightLord
 
 - 🔭 I like making **mods, scripts, games, websites, and more
 
-- 👀 Look at my current **game** that is in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**: https://www.gunnarz.us
+- 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**
 
 - 🌱 Currently learning **Bootstrap, Tailwind CSS, and React**
 
