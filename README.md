@@ -13,7 +13,7 @@ Hi 👋, I'm LightLord
 
 - 🚧 I am currently working on my website 
 
-- 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io
+- 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io (not finished yet)
 
 - 📫 Reach me on discord: **LightLord#4261**
 
