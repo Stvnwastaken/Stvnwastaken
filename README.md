@@ -1,7 +1,7 @@
 Hi 👋, I'm LightLord
 =====================
 
-### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer
+### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer, Mod Maker(for both games and websites)
 
 - 🔭 I like making **mods, scripts, games, websites, and more
 
