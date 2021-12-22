@@ -3,7 +3,7 @@ Hi 👋, I'm LightLord
 
 ### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer, Mod Maker(for both games and websites)
 
-- 🔭 I like making **mods, scripts, games, websites, and more
+- 🔭 I like making **mods, scripts, games, websites, and more**
 
 - 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**
 
