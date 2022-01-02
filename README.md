@@ -9,7 +9,7 @@ Hi 👋, I'm LightLord
 
 - 🌱 Currently learning **Tailwind CSS, P5.JS, ThreeJS, DiscordJS, and React**
 
-- 🌱 Will learn **NextJS, Yarn(Close to finishing)**
+- 🌱 Will learn **NextJS, MongoDB, Yarn(Close to finishing)**
 
 - 🚧 I am currently working on my website 
 
