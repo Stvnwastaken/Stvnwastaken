@@ -7,9 +7,9 @@ Hi 👋, I'm LightLord
 
 - 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**
 
-- 🌱 Currently learning **Tailwind CSS, P5.JS, ThreeJS, DiscordJS, and React**
+- 🌱 Currently learning **Tailwind CSS, P5.JS, ThreeJS, and DiscordJS**
 
-- 🌱 Will learn **NextJS, SwiftUI, MongoDB, Yarn(Close to finishing)**
+- 🌱 Will learn **NextJS, React, MongoDB, Yarn(Close to finishing)**
 
 - 🚧 I am currently working on my website 
 
