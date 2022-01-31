@@ -11,7 +11,7 @@ Hi 👋, I'm LightLord
 
 - 🌱 Will learn **NextJS, React, MongoDB, Yarn(Close to finishing)**
 
-- 🚧 I am currently working on my website 
+- 🚧 I am currently working on my css framework
 
 - 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io (not finished yet)
 
