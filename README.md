@@ -7,11 +7,11 @@ Hi 👋, I'm LightLord
 
 - 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**
 
-- 🌱 Currently learning **Tailwind CSS, P5.JS, ThreeJS, and DiscordJS**
+- 🌱 Currently learning **Matplotlib, Python, Pyautogui, and Selenium**
 
-- 🌱 Will learn **NextJS, React, MongoDB, Yarn(Close to finishing)**
+- 🌱 Will learn **NextJS, React, MongoDB, ThreeJS, Tensorflow, Python Flask, Django**
 
-- 🚧 I am currently working on my css framework
+- 🚧 I am currently working on my aimbot
 
 - 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io (not finished yet)
 
