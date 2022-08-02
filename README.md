@@ -7,6 +7,8 @@ Hi 👋, I'm LightLord
 
 - 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**
 
+- 👀 DOM-Shortner NPM Package with **[JavRedStone](https://github.com/Javredstone)**
+
 - 🌱 Currently learning **Matplotlib, Python, Pyautogui, and Selenium**
 
 - 🌱 Will learn **NextJS, React, MongoDB, ThreeJS, Tensorflow, Python Flask, Django**
