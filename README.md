@@ -1,15 +1,15 @@
 Hi 👋, I'm LightLord
 =====================
 
-### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer, Mod Maker(for both games and websites)
+### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer, Scripter
 
-- 🔭 I like making **mods, scripts, games, websites, and more**
+- 🔭 I like making **mods, scripts, games, web apps, and more**
 
-- 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)**
+- 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (currently down)
 
-- 🌱 Currently learning **Tailwind, Vue, React**
+- 🌱 Currently learning **Tailwind, Typescript**
 
-- 🚧 I am currently working on my aimbot and canvas lms hack
+- 🚧 I am currently working on my quizlet ripoff clone
 
 - 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io (not finished yet)
 
