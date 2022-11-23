@@ -11,7 +11,7 @@ Hi 👋, I'm LightLord (yt channel is dead and I have no motivation to continue
 
 - 🚧 I am currently working on my quizlet ripoff clone
 
-- 👨‍💻 Check out of my **public projects, mods, and scripts**: https://lightlordyt.github.io (not finished yet)
+- 👨‍💻 Check out of my **public projects, mods, and scripts**:  (not finished yet)
 
 - 📫 Reach me on discord: **LightLord#4261**
 
