@@ -7,7 +7,7 @@ Hi 👋, I'm LightLord (yt channel is dead and I have no motivation to continue
 
 - 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (currently down)
 
-- 🌱 Currently learning **React, Typescript**
+- 🌱 Currently learning **Hacking, Typescript**
 
 - 👨‍💻 Check out of my **public projects, mods, and scripts**:  (not finished yet)
 
