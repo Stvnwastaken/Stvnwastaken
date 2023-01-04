@@ -1,5 +1,3 @@
-Hi 👋, I'm LightLord (yt channel is dead and I have no motivation to continue, yt is just so my name is unique)
-=====================
 
 ### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer, Scripter
 
