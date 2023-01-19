@@ -3,7 +3,7 @@
 
 - 🔭 I like making **mods, scripts, games, web apps, and more**
 
-- 👀 Look at my current **game**: https://www.gunnarz.us in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (currently down)
+- 👀 Look at my current **game**: https://prod.gunnarz.host in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (wip)
 
 - 🌱 Currently learning **Hacking, Typescript**
 
