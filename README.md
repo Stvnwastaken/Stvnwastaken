@@ -1,7 +1,7 @@
 
-### [](https://github.com/LightLordYT/LightLordYT#web-developer)Web Developer, Scripter
+# hobbyist
 
-- 🔭 I like making **mods, scripts, games, web apps, and more**
+- 🔭 I like making **cool stuff**
 
 - 👀 Look at my current **game**: https://prod.gunnarz.host in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (wip)
 
