@@ -5,13 +5,9 @@
 
 - 👀 Look at my current **game**: https://prod.gunnarz.host in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (wip)
 
-- 🌱 Currently learning **Hacking, Typescript**
-
-- 👨‍💻 Check out of my **public projects, mods, and scripts**:  (not finished yet)
+- 🌱 Currently learning **Java**
 
 - 📫 Reach me on discord: **LightLord#4261**
-
-- ⚡ Fun Fact: **juggling many projects at a time is not very productive**
 
 ### [](https://github.com/LightLordYT/LightLordYT#languages-and-tools)Languages and Tools:
 
