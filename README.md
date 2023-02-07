@@ -3,8 +3,6 @@
 
 - 🔭 I like making **cool stuff**
 
-- 👀 Look at my current **game**: https://prod.gunnarz.host in collaboration with **[Nitrogem35](https://github.com/nitrogem35)** (wip)
-
 - 🌱 Currently learning **Java**
 
 - 📫 Reach me on discord: **LightLord#4261**
