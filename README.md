@@ -3,7 +3,7 @@
 
 - 🔭 I like making **cool stuff**
 
-- 🌱 Currently learning **Java**
+- 🌱 Currently learning **ReactJS, Typescript**
 
 - 📫 Reach me on discord: **LightLord#4261**
 
