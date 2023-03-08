@@ -1,5 +1,5 @@
 
-# I learn shit
+# I learn shit I enjoy
 
 - 🔭 I like making **cool stuff**
 
