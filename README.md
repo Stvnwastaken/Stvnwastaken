@@ -1,5 +1,5 @@
 
-# hobbyist
+# I learn shit
 
 - 🔭 I like making **cool stuff**
 
