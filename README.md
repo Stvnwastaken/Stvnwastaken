@@ -1,5 +1,5 @@
 
-# I learn shit I enjoy
+# Self Taught, Touch Grass, Programmer
 
 - 🔭 I like making **cool stuff**
 
