@@ -1,11 +1,15 @@
 
-# Self Taught Programmer
+# Self Taught Programmer going fullstack
 
 - 🔭 I like making **cool stuff**
 
 - 🌱 Currently learning **ReactJS, React Router**
 
 - 📫 Reach me on discord: **LightLord#4261**
+
+## Javascript, Typescript, NodeJS, Deno, Python, Java, HTML, CSS
+
+Some tools and frameworks: ExpressJS, Websockets, ReactJS, Bootstrap, TailwindCSS, DaisyUI, Github Pages, Netlify, Vite, NPM, Yarn 
 
 don't mind my fifth grade username
 
