@@ -7,6 +7,8 @@
 
 - 📫 Reach me on discord: **LightLord#4261**
 
+- Winner in sponsorship event in first ever hackathon (lancerhacks)
+
 ## Javascript, Typescript, NodeJS, Deno, Python, Java, HTML, CSS
 
 Some tools and frameworks: ExpressJS, Websockets, ReactJS, Bootstrap, TailwindCSS, DaisyUI, Github Pages, Netlify, Vite, NPM, Yarn 
