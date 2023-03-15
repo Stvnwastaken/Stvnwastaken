@@ -1,5 +1,5 @@
 
-# Self Taught, Touch Grass, Programmer
+# Self Taught Programmer
 
 - 🔭 I like making **cool stuff**
 
