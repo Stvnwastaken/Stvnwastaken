@@ -7,7 +7,7 @@
 
 - 📫 Reach me on discord: **LightLord#4261**
 
-- Winner in sponsorship event in first ever hackathon (lancerhacks)
+- trust i actually enjoy this, my parents didnt force me
 
 ## Javascript, Typescript, NodeJS, Deno, Python, Java, HTML, CSS
 
