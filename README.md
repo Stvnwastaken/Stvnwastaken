@@ -3,7 +3,7 @@
 
 - 🔭 I like making **cool stuff**
 
-- 🌱 Currently learning **ReactJS, React Router**
+- 🌱 Currently learning **NextJS**
 
 - 📫 Reach me on discord: **LightLord#4261**
 
