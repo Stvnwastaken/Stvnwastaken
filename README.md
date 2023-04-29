@@ -1,17 +1,17 @@
 
-# Self Taught Programmer going fullstack
+# self taught guy who codes too much and gets burnouts
 
-- 🔭 I like making **cool stuff**
+- 🔭 I like making **stuff i think is cool**
 
 - 🌱 Currently learning **NextJS**
 
 - 📫 Reach me on discord: **LightLord#4261**
 
-- trust i actually enjoy this, my parents didnt force me
+- i swear my parents didnt force me, they wanted me to be a doctor -_-
 
 ## Javascript, Typescript, NodeJS, Deno, Python, Java, HTML, CSS
 
-Some tools and frameworks: ExpressJS, Websockets, ReactJS, Bootstrap, TailwindCSS, DaisyUI, Github Pages, Netlify, Vite, NPM, Yarn 
+Some tools and frameworks: ExpressJS, ReactJS, Bootstrap, TailwindCSS, DaisyUI, Github Pages, Netlify, Vite, NPM, Yarn, Pip 
 
 don't mind my fifth grade username
 
