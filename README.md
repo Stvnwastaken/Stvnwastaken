@@ -9,9 +9,9 @@
 
 - i swear my parents didnt force me, they wanted me to be a doctor -_-
 
-## Javascript, Typescript, NodeJS, Deno, Python, Java, HTML, CSS
+## Javascript, Typescript, Python, Java, HTML, CSS
 
-Some tools and frameworks: ExpressJS, ReactJS, Bootstrap, TailwindCSS, DaisyUI, Github Pages, Netlify, Vite, NPM, Yarn, Pip 
+### Also: React, Express, Tailwind, Bootstrap, etc 
 
 don't mind my fifth grade username
 
