@@ -1,5 +1,5 @@
 
-# self taught guy who codes too much and gets burnouts
+# self taught programmer
 
 - 🔭 I like making **stuff i think is cool**
 
@@ -7,15 +7,9 @@
 
 - 📫 Reach me on discord: **LightLord#4261**
 
-- i swear my parents didnt force me, they wanted me to be a doctor -_-
-
-## Javascript, Typescript, Python, Java, HTML, CSS
-
-### Also: React, Express, Tailwind, Bootstrap, etc 
+## Javascript, Typescript, Python, Java, HTML, CSS 
 
 don't mind my fifth grade username
-
-https://webdeveloper.com/@LightLord/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LightLordYT&layout=compact)]()
 
