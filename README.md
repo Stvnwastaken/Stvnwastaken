@@ -1,7 +1,7 @@
 
 # self taught programmer
 
-I made my username a while back, and I really don't feel like changing everything since changing a username makes a bunch of stuff not work
+I made my username a while back, and I changed it, but I don't feel like editing all my past stuff so a bunch of repos might be broken
 
 - 🔭 I like making **random stuff**
 
