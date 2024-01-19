@@ -3,7 +3,7 @@
 
 I made my username a while back, and I really don't feel like changing everything since changing a username makes a bunch of stuff not work
 
-- 🔭 I like making **stuff i think is cool**
+- 🔭 I like making **random stuff**
 
 - 🌱 Currently learning **cs**
 
