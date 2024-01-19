@@ -5,11 +5,11 @@ I made my username a while back, and I really don't feel like changing everythin
 
 - 🔭 I like making **stuff i think is cool**
 
-- 🌱 Currently learning **Typescript**
+- 🌱 Currently learning **cs**
 
 - 📫 Reach me on discord: **LightLord#4261**
 
-## Javascript, Typescript, Python, Java, HTML, CSS 
+## Javascript, Python, HTML, CSS 
 
 don't mind my fifth grade username
 
