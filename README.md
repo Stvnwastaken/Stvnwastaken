@@ -15,5 +15,3 @@ don't mind my fifth grade username
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stvnwastaken&layout=compact)]()
 
-[![LightLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stvnwastaken)]()
-
